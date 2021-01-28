@@ -78,7 +78,7 @@ function draw() {
   text(" 200 ", 560, 550);
   text(" 200 ", 640, 550);
   text(" 200 ", 720, 550);
-  text("press mouse to summon a ball",70,40)
+  text("press mouse to summon a ball",110,40)
   
 
 
